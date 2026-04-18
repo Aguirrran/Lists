@@ -1,0 +1,12 @@
+---
+:id: 394963997
+:submitters:
+- :name: Christian Aguirre
+  :email: cagui52@uic.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2026-03-04 05:15:50.601265000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2026-03-03 21:15:50.601265000 Z
+:status: processed
+:score: 100.0
